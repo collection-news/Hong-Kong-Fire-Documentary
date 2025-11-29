@@ -30,13 +30,14 @@ docs_dir: content
 
 nav:
   - 主頁: index.md
-  - 時間線: timeline/
-  - 現場片段: videos/
-  - 新聞報道: news/
-  - 技術分析: analysis/
-  - 支援資訊: support/
-  - 圖片紀錄: photos/
-  - 政府文件: docs/
+  - 時間線: timeline/README.md
+  - 現場片段: videos/README.md
+  - 新聞報道: news/README.md
+  - 技術分析: analysis/README.md
+  - 支援資訊: support/README.md
+  - 圖片紀錄: photos/README.md
+  - 居民討論: residents/README.md
+  - 政府文件: docs/README.md
 
 plugins:
   - search
