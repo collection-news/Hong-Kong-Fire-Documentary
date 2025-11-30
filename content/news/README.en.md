@@ -9,7 +9,7 @@ This section compiles news reports, feature articles, and official releases from
 - [**i-Cable News**](i-cable/README.md)
 - [**TVB News**](無綫新聞/README.md) *(Pending)*
 - [**Commercial Radio**](commercial-radio/README.md)
-- [**HK01**](HK01/README.md)
+- [**HK01**](hk01/README.md)
 - [**Ming Pao**](mingpao/README.md)
 - [**HKEJ (Hong Kong Economic Journal)**](hkej/README.md)
 - [**Sing Tao Daily**](singtao/README.md)
@@ -28,16 +28,16 @@ This section compiles news reports, feature articles, and official releases from
 
 ## International Media
 
-- [**SCMP (South China Morning Post)**](SCMP/README.md)
-- [**BBC UK**](BBC/README.md)
-- [**CNN**](CNN/README.md)
-- [**Reuters**](Reuters/README.md)
-- [**AP**](AP/README.md)
-- [**ABC**](ABC/README.md)
-- [**Sky**](Sky/README.md)
+- [**SCMP (South China Morning Post)**](scmp/README.md)
+- [**BBC UK**](bbc/README.md)
+- [**CNN**](cnn/README.md)
+- [**Reuters**](reuters/README.md)
+- [**AP**](ap/README.md)
+- [**ABC**](abc/README.md)
+- [**Sky**](sky/README.md)
 - [**The Guardian**](The%20Guardian/README.md)
 - [**The Sun**](The%20Sun/README.md)
-- [**Other International Coverage (German, Japanese, etc.)**](International/README.md)
+- [**Other International Coverage (German, Japanese, etc.)**](international/README.md)
 
 ## Official Information
 

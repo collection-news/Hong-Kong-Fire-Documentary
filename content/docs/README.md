@@ -12,17 +12,17 @@ keywords: 政府文件, 官方記錄, 會議記錄, 防火通告, 行政文件, 
 
 - **屋宇署 (Buildings Department)**
 
-  - [屋宇署致一般建築承建商、專門承建商、小型工程承建商通告函件 - 就正在興建、拆卸、改動及加建、修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年11月27日) (BD GR/1-50/97)](CL_UFRPNSTPSFBCDAARMWRC2025c.pdf)
+  - [屋宇署致一般建築承建商、專門承建商、小型工程承建商通告函件 - 就正在興建、拆卸、改動及加建、修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年11月27日) (BD GR/1-50/97)](government/CL_UFRPNSTPSFBCDAARMWRC2025c.pdf)
   收集自: <https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDAARMWRC2025c.pdf>
-  - [屋宇署致認可人士、結構工程師、岩土工程師、註冊檢驗人員通告函件 - 就正在興建、拆卸、改動及加建、修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年11月27日) (BD GR/1-50/97)](CL_UFRPNSTPSFBCDAARMWAPRSERGERI2025c.pdf)
+  - [屋宇署致認可人士、結構工程師、岩土工程師、註冊檢驗人員通告函件 - 就正在興建、拆卸、改動及加建、修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年11月27日) (BD GR/1-50/97)](government/CL_UFRPNSTPSFBCDAARMWAPRSERGERI2025c.pdf)
   收集自: <https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDAARMWAPRSERGERI2025c.pdf>  
-  - [屋宇署致認可人士、結構工程師、岩土工程師通告函件 - 《小型工程監管制度之技術指引》（2024年修訂版）修訂事宜(2025年10月31日) (BD MW/1-50/11)](CL_ATGMWCS2025c.pdf)
+  - [屋宇署致認可人士、結構工程師、岩土工程師通告函件 - 《小型工程監管制度之技術指引》（2024年修訂版）修訂事宜(2025年10月31日) (BD MW/1-50/11)](government/CL_ATGMWCS2025c.pdf)
   收集自: <https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_ATGMWCS2025c.pdf>
-  - [屋宇署通告函件 - 就正在興建、拆卸，或進行修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年10月21日) (BD GR/1-50/97)](CL_UFRPNSTPSFBCDRMW2025c.pdf)
+  - [屋宇署通告函件 - 就正在興建、拆卸，或進行修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年10月21日) (BD GR/1-50/97)](government/CL_UFRPNSTPSFBCDRMW2025c.pdf)
   收集自: <https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDRMW2025c.pdf>
-  - [屋宇署致業界通告函件 - 大廈維修或修葺工程的竹棚架安全 (2025年4月16日) ((54) in BD GR/1-50/97)](CL_SBSBMRW2025c.pdf)
+  - [屋宇署致業界通告函件 - 大廈維修或修葺工程的竹棚架安全 (2025年4月16日) ((54) in BD GR/1-50/97)](government/CL_SBSBMRW2025c.pdf)
   收集自: <https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_SBSBMRW2025c.pdf>
-  - [2011年建築物消防安全守則（2024年修訂版）](fs_code2011_c.pdf)
+  - [2011年建築物消防安全守則（2024年修訂版）](government/fs_code2011_c.pdf)
   收集自: <https://www.bd.gov.hk/doc/tc/resources/codes-and-references/code-and-design-manuals/fs_code2011_c.pdf>
   - [屋宇署命令 (BD GPBORD71)](BD%20GPBORD71.jpg)
   - [屋宇署文件 (BD GR1-5097)](BD%20GR1-5097.pdf)
@@ -32,7 +32,7 @@ keywords: 政府文件, 官方記錄, 會議記錄, 防火通告, 行政文件, 
 - **勞工處 (Labour Department)**
   - [勞工處回覆 (260) in LM to LD GR6-1561 Pt. 583](%28260%29%20in%20LM%20to%20LD%20GR6-1561%20Pt.%20583.jpg)
   - [竹棚架安全工作守則 (Code of Practice for Bamboo Scaffolding Safety)](Code%20of%20Practice%20for%20Bamboo%20Scaffolding%20Safety.pdf)
-  - [竹棚架工作安全守則第五版](Bamboo.pdf) - 收集自: <https://www.labour.gov.hk/tc/public/pdf/os/B/Bamboo.pdf>
+  - [竹棚架工作安全守則第五版](government/Bamboo.pdf) - 收集自: <https://www.labour.gov.hk/tc/public/pdf/os/B/Bamboo.pdf>
 
 - **消防處 (Fire Services Department)**
   - [消防安全守則 (Fire Safety Code)](Fire%20Safety%20Code.png)
@@ -42,7 +42,7 @@ keywords: 政府文件, 官方記錄, 會議記錄, 防火通告, 行政文件, 
   - [南大埔綜合家庭服務中心服務範圍 (2024年10月)](TP(S)IFSC_Service%20Boundary%20(Oct%202024).pdf) - 收集自: <https://www.swd.gov.hk/storage/asset/section/643/tc/TP(S)IFSC_Service%20Boundary%20(Oct%202024).pdf>
 
 - **民政事務總署 (HAD)**
-  - [大埔區分區委員會小區關愛隊概要和 聯絡途徑](TP09_Wang_Fuk_Chi.pdf) - 收集自: <https://www.had.gov.hk/file_manager/tc/documents/public_services/district_services_community_care_teams/second/TP09_Wang_Fuk_Chi.pdf>
+  - [大埔區分區委員會小區關愛隊概要和 聯絡途徑](government/TP09_Wang_Fuk_Chi.pdf) - 收集自: <https://www.had.gov.hk/file_manager/tc/documents/public_services/district_services_community_care_teams/second/TP09_Wang_Fuk_Chi.pdf>
 
 - **樓層平面圖 (香港房屋委員會)**
 

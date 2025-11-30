@@ -9,7 +9,7 @@
 - [**有線新聞 (i-Cable)**](i-cable/README.md)
 - [**無綫新聞 (i-Cable)**](無綫新聞/README.md) *(待補)*
 - [**商業電台 (Commercial Radio)**](commercial-radio/README.md)
-- [**香港 01 (HK01)**](HK01/README.md)
+- [**香港 01 (HK01)**](hk01/README.md)
 - [**明報 (Ming Pao)**](mingpao/README.md)
 - [**信報財經新聞 (HKEJ)**](hkej/README.md)
 - [**星島日報 (Sing Tao)**](singtao/README.md)
@@ -28,16 +28,16 @@
 
 ## 國際媒體 (International Media)
 
-- [**SCMP (South China Morning Post)**](SCMP/README.md)
-- [**BBC UK**](BBC/README.md)
-- [**CNN**](CNN/README.md)
-- [**Reuters**](Reuters/README.md)
-- [**AP**](AP/README.md)
-- [**ABC (Australian Broadcasting Corporation)**](ABC/README.md)
-- [**Sky**](Sky/README.md)
+- [**SCMP (South China Morning Post)**](scmp/README.md)
+- [**BBC UK**](bbc/README.md)
+- [**CNN**](cnn/README.md)
+- [**Reuters**](reuters/README.md)
+- [**AP**](ap/README.md)
+- [**ABC (Australian Broadcasting Corporation)**](abc/README.md)
+- [**Sky**](sky/README.md)
 - [**The Guardian**](The%20Guardian/README.md)
 - [**The Sun**](The%20Sun/README.md)
-- [**Other International Coverage (German, Japanese, etc.)**](International/README.md)
+- [**Other International Coverage (German, Japanese, etc.)**](international/README.md)
 
 ## 官方資料 (Official Information)
 

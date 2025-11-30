@@ -19,7 +19,7 @@ This section contains replies from government departments, public letters, statu
 - **Labour Department (LD)**
   - [Department Reply (260) in LM to LD GR6-1561 Pt. 583](%28260%29%20in%20LM%20to%20LD%20GR6-1561%20Pt.%20583.jpg)
   - [Code of Practice for Bamboo Scaffolding Safety](Code%20of%20Practice%20for%20Bamboo%20Scaffolding%20Safety.pdf)
-  - [Code of Practice for Bamboo Scaffolding Safety 5th Edition](Bamboo.pdf) - Collected from: <https://www.labour.gov.hk/tc/public/pdf/os/B/Bamboo.pdf>
+  - [Code of Practice for Bamboo Scaffolding Safety 5th Edition](government/Bamboo.pdf) - Collected from: <https://www.labour.gov.hk/tc/public/pdf/os/B/Bamboo.pdf>
 
 - **Fire Services Department (FSD)**
   - [Fire Safety Code](Fire%20Safety%20Code.png)
@@ -28,7 +28,7 @@ This section contains replies from government departments, public letters, statu
   - [Tai Po (South) Integrated Family Service Centre Service Boundary (Oct 2024)](TP(S)IFSC_Service%20Boundary%20(Oct%202024).pdf) - Collected from: <https://www.swd.gov.hk/storage/asset/section/643/tc/TP(S)IFSC_Service%20Boundary%20(Oct%202024).pdf>
 
 - **Home Affairs Department (HAD)**
-  - [Information on Sub-district Care Teams and Communication Channels (Tai Po)](TP09_Wang_Fuk_Chi.pdf) - Collected from: <https://www.had.gov.hk/file_manager/tc/documents/public_services/district_services_community_care_teams/second/TP09_Wang_Fuk_Chi.pdf>
+  - [Information on Sub-district Care Teams and Communication Channels (Tai Po)](government/TP09_Wang_Fuk_Chi.pdf) - Collected from: <https://www.had.gov.hk/file_manager/tc/documents/public_services/district_services_community_care_teams/second/TP09_Wang_Fuk_Chi.pdf>
 
 - **Typical Floor Plan (Hong Kong Housing Authority)**
 
