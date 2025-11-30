@@ -330,13 +330,6 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/BBC/Readme/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/BBC%20%E4%B8%AD%E6%96%87%E7%B6%B2/Readme/</loc>
-        <lastmod>2025-11-30</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/BBC%20%E4%B8%AD%E6%96%87%E7%B6%B2/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/BBC%20%E4%B8%AD%E6%96%87%E7%B6%B2/Readme/"/>
-    </url>
-    <url>
         <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/CNN/Readme/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
@@ -386,13 +379,6 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/International/Japanese/Japan%20Times/Readme/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/NOW%20%E6%96%B0%E8%81%9E/Readme/</loc>
-        <lastmod>2025-11-30</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/NOW%20%E6%96%B0%E8%81%9E/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/NOW%20%E6%96%B0%E8%81%9E/Readme/"/>
-    </url>
-    <url>
         <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/NestX/Readme/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
@@ -405,13 +391,6 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/NestX/archive/two-buildings-fire/metadata/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/NestX/archive/two-buildings-fire/metadata/"/>
-    </url>
-    <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/RTHK%20%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%8F%B0/Readme/</loc>
-        <lastmod>2025-11-30</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/RTHK%20%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%8F%B0/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/RTHK%20%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%8F%B0/Readme/"/>
     </url>
     <url>
         <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/Reuters/Readme/</loc>
@@ -456,109 +435,130 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/The%20Sun/Readme/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1%E5%A4%A7%E6%B9%BE%E5%8C%BA/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/bastille-post/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1%E5%A4%A7%E6%B9%BE%E5%8C%BA/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1%E5%A4%A7%E6%B9%BE%E5%8C%BA/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/bastille-post/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/bastille-post/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E4%BF%A1%E5%A0%B1%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/bbc-chinese/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E4%BF%A1%E5%A0%B1%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E4%BF%A1%E5%A0%B1%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/bbc-chinese/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/bbc-chinese/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E5%95%86%E6%A5%AD%E9%9B%BB%E5%8F%B0/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/commercial-radio/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E5%95%86%E6%A5%AD%E9%9B%BB%E5%8F%B0/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E5%95%86%E6%A5%AD%E9%9B%BB%E5%8F%B0/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/commercial-radio/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/commercial-radio/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E5%A4%A7%E5%85%AC%E6%96%87%E5%8C%AF/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/hkej/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E5%A4%A7%E5%85%AC%E6%96%87%E5%8C%AF/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E5%A4%A7%E5%85%AC%E6%96%87%E5%8C%AF/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/hkej/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/hkej/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E5%A4%A7%E5%85%AC%E6%96%87%E5%8C%AF/archive/%E3%80%90A7-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%90%AD%E6%A3%9A%E7%B6%AD%E4%BF%AE%E8%AA%BF%E6%9F%A5%E2%9D%B6-%E6%8F%AD%E9%96%8B%E7%B6%AD%E4%BF%AE%E6%A3%9A%E6%9E%B6%E8%83%8C%E5%BE%8C%E9%87%8D%E9%87%8D%E9%BB%91%E5%B9%95%E3%80%91/article/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/i-cable/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E5%A4%A7%E5%85%AC%E6%96%87%E5%8C%AF/archive/%E3%80%90A7-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%90%AD%E6%A3%9A%E7%B6%AD%E4%BF%AE%E8%AA%BF%E6%9F%A5%E2%9D%B6-%E6%8F%AD%E9%96%8B%E7%B6%AD%E4%BF%AE%E6%A3%9A%E6%9E%B6%E8%83%8C%E5%BE%8C%E9%87%8D%E9%87%8D%E9%BB%91%E5%B9%95%E3%80%91/article/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E5%A4%A7%E5%85%AC%E6%96%87%E5%8C%AF/archive/%E3%80%90A7-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%90%AD%E6%A3%9A%E7%B6%AD%E4%BF%AE%E8%AA%BF%E6%9F%A5%E2%9D%B6-%E6%8F%AD%E9%96%8B%E7%B6%AD%E4%BF%AE%E6%A3%9A%E6%9E%B6%E8%83%8C%E5%BE%8C%E9%87%8D%E9%87%8D%E9%BB%91%E5%B9%95%E3%80%91/article/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/i-cable/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/i-cable/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E5%B7%B4%E5%A3%AB%E7%9A%84%E5%A0%B1/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/inmedia/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E5%B7%B4%E5%A3%AB%E7%9A%84%E5%A0%B1/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E5%B7%B4%E5%A3%AB%E7%9A%84%E5%A0%B1/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/inmedia/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/inmedia/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%98%8E%E5%A0%B1/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/mingpao/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%98%8E%E5%A0%B1/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%98%8E%E5%A0%B1/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/mingpao/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/mingpao/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%98%9F%E5%B3%B6%E6%97%A5%E5%A0%B1/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/now-news/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%98%9F%E5%B3%B6%E6%97%A5%E5%A0%B1/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%98%9F%E5%B3%B6%E6%97%A5%E5%A0%B1/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/now-news/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/now-news/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%99%B4%E5%A0%B1/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/oriental-daily/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%99%B4%E5%A0%B1/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%99%B4%E5%A0%B1/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/oriental-daily/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/oriental-daily/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%9C%89%E7%B7%9A%E6%96%B0%E8%81%9E/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/peoples-daily-gba/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%9C%89%E7%B7%9A%E6%96%B0%E8%81%9E/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%9C%89%E7%B7%9A%E6%96%B0%E8%81%9E/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/peoples-daily-gba/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/peoples-daily-gba/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%9D%B1%E6%96%B9%E6%97%A5%E5%A0%B1/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/points-media/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%9D%B1%E6%96%B9%E6%97%A5%E5%A0%B1/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%9D%B1%E6%96%B9%E6%97%A5%E5%A0%B1/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/points-media/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/points-media/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%A3%B1%E8%A7%92/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/rthk/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%A3%B1%E8%A7%92/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%A3%B1%E8%A7%92/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/rthk/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/rthk/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%B3%95%E5%BA%AD%E7%B7%9A/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/singtao/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%B3%95%E5%BA%AD%E7%B7%9A/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%B3%95%E5%BA%AD%E7%B7%9A/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/singtao/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/singtao/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E7%8D%A8%E7%AB%8B%E5%AA%92%E9%AB%94/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/skypost/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E7%8D%A8%E7%AB%8B%E5%AA%92%E9%AB%94/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E7%8D%A8%E7%AB%8B%E5%AA%92%E9%AB%94/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/skypost/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/skypost/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E9%9B%86%E8%AA%8C%E7%A4%BE/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/takungpao/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E9%9B%86%E8%AA%8C%E7%A4%BE/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E9%9B%86%E8%AA%8C%E7%A4%BE/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/takungpao/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/takungpao/"/>
+    </url>
+    <url>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/takungpao/archive/%E3%80%90A7-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%90%AD%E6%A3%9A%E7%B6%AD%E4%BF%AE%E8%AA%BF%E6%9F%A5%E2%9D%B6-%E6%8F%AD%E9%96%8B%E7%B6%AD%E4%BF%AE%E6%A3%9A%E6%9E%B6%E8%83%8C%E5%BE%8C%E9%87%8D%E9%87%8D%E9%BB%91%E5%B9%95%E3%80%91/article/</loc>
+        <lastmod>2025-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/takungpao/archive/%E3%80%90A7-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%90%AD%E6%A3%9A%E7%B6%AD%E4%BF%AE%E8%AA%BF%E6%9F%A5%E2%9D%B6-%E6%8F%AD%E9%96%8B%E7%B6%AD%E4%BF%AE%E6%A3%9A%E6%9E%B6%E8%83%8C%E5%BE%8C%E9%87%8D%E9%87%8D%E9%BB%91%E5%B9%95%E3%80%91/article/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/takungpao/archive/%E3%80%90A7-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%90%AD%E6%A3%9A%E7%B6%AD%E4%BF%AE%E8%AA%BF%E6%9F%A5%E2%9D%B6-%E6%8F%AD%E9%96%8B%E7%B6%AD%E4%BF%AE%E6%A3%9A%E6%9E%B6%E8%83%8C%E5%BE%8C%E9%87%8D%E9%87%8D%E9%BB%91%E5%B9%95%E3%80%91/article/"/>
+    </url>
+    <url>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/the-collective/</loc>
+        <lastmod>2025-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/the-collective/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/the-collective/"/>
+    </url>
+    <url>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/the-witness/</loc>
+        <lastmod>2025-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/the-witness/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/the-witness/"/>
     </url>
     <url>
         <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/photos/</loc>
@@ -1036,13 +1036,6 @@
         <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/BBC/Readme/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/BBC%20%E4%B8%AD%E6%96%87%E7%B6%B2/Readme/</loc>
-        <lastmod>2025-11-30</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/BBC%20%E4%B8%AD%E6%96%87%E7%B6%B2/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/BBC%20%E4%B8%AD%E6%96%87%E7%B6%B2/Readme/"/>
-    </url>
-    <url>
         <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/CNN/Readme/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
@@ -1092,13 +1085,6 @@
         <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/International/Japanese/Japan%20Times/Readme/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/NOW%20%E6%96%B0%E8%81%9E/Readme/</loc>
-        <lastmod>2025-11-30</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/NOW%20%E6%96%B0%E8%81%9E/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/NOW%20%E6%96%B0%E8%81%9E/Readme/"/>
-    </url>
-    <url>
         <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/NestX/Readme/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
@@ -1111,13 +1097,6 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/NestX/archive/two-buildings-fire/metadata/"/>
         <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/NestX/archive/two-buildings-fire/metadata/"/>
-    </url>
-    <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/RTHK%20%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%8F%B0/Readme/</loc>
-        <lastmod>2025-11-30</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/RTHK%20%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%8F%B0/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/RTHK%20%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%8F%B0/Readme/"/>
     </url>
     <url>
         <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/Reuters/Readme/</loc>
@@ -1162,109 +1141,130 @@
         <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/The%20Sun/Readme/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1%E5%A4%A7%E6%B9%BE%E5%8C%BA/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/bastille-post/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1%E5%A4%A7%E6%B9%BE%E5%8C%BA/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1%E5%A4%A7%E6%B9%BE%E5%8C%BA/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/bastille-post/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/bastille-post/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E4%BF%A1%E5%A0%B1%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/bbc-chinese/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E4%BF%A1%E5%A0%B1%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E4%BF%A1%E5%A0%B1%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/bbc-chinese/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/bbc-chinese/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E5%95%86%E6%A5%AD%E9%9B%BB%E5%8F%B0/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/commercial-radio/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E5%95%86%E6%A5%AD%E9%9B%BB%E5%8F%B0/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E5%95%86%E6%A5%AD%E9%9B%BB%E5%8F%B0/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/commercial-radio/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/commercial-radio/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E5%A4%A7%E5%85%AC%E6%96%87%E5%8C%AF/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/hkej/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E5%A4%A7%E5%85%AC%E6%96%87%E5%8C%AF/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E5%A4%A7%E5%85%AC%E6%96%87%E5%8C%AF/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/hkej/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/hkej/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E5%A4%A7%E5%85%AC%E6%96%87%E5%8C%AF/archive/%E3%80%90A7-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%90%AD%E6%A3%9A%E7%B6%AD%E4%BF%AE%E8%AA%BF%E6%9F%A5%E2%9D%B6-%E6%8F%AD%E9%96%8B%E7%B6%AD%E4%BF%AE%E6%A3%9A%E6%9E%B6%E8%83%8C%E5%BE%8C%E9%87%8D%E9%87%8D%E9%BB%91%E5%B9%95%E3%80%91/article/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/i-cable/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E5%A4%A7%E5%85%AC%E6%96%87%E5%8C%AF/archive/%E3%80%90A7-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%90%AD%E6%A3%9A%E7%B6%AD%E4%BF%AE%E8%AA%BF%E6%9F%A5%E2%9D%B6-%E6%8F%AD%E9%96%8B%E7%B6%AD%E4%BF%AE%E6%A3%9A%E6%9E%B6%E8%83%8C%E5%BE%8C%E9%87%8D%E9%87%8D%E9%BB%91%E5%B9%95%E3%80%91/article/"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E5%A4%A7%E5%85%AC%E6%96%87%E5%8C%AF/archive/%E3%80%90A7-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%90%AD%E6%A3%9A%E7%B6%AD%E4%BF%AE%E8%AA%BF%E6%9F%A5%E2%9D%B6-%E6%8F%AD%E9%96%8B%E7%B6%AD%E4%BF%AE%E6%A3%9A%E6%9E%B6%E8%83%8C%E5%BE%8C%E9%87%8D%E9%87%8D%E9%BB%91%E5%B9%95%E3%80%91/article/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/i-cable/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/i-cable/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E5%B7%B4%E5%A3%AB%E7%9A%84%E5%A0%B1/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/inmedia/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E5%B7%B4%E5%A3%AB%E7%9A%84%E5%A0%B1/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E5%B7%B4%E5%A3%AB%E7%9A%84%E5%A0%B1/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/inmedia/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/inmedia/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%98%8E%E5%A0%B1/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/mingpao/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%98%8E%E5%A0%B1/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%98%8E%E5%A0%B1/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/mingpao/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/mingpao/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%98%9F%E5%B3%B6%E6%97%A5%E5%A0%B1/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/now-news/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%98%9F%E5%B3%B6%E6%97%A5%E5%A0%B1/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%98%9F%E5%B3%B6%E6%97%A5%E5%A0%B1/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/now-news/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/now-news/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%99%B4%E5%A0%B1/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/oriental-daily/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%99%B4%E5%A0%B1/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%99%B4%E5%A0%B1/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/oriental-daily/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/oriental-daily/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%9C%89%E7%B7%9A%E6%96%B0%E8%81%9E/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/peoples-daily-gba/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%9C%89%E7%B7%9A%E6%96%B0%E8%81%9E/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%9C%89%E7%B7%9A%E6%96%B0%E8%81%9E/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/peoples-daily-gba/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/peoples-daily-gba/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%9D%B1%E6%96%B9%E6%97%A5%E5%A0%B1/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/points-media/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%9D%B1%E6%96%B9%E6%97%A5%E5%A0%B1/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%9D%B1%E6%96%B9%E6%97%A5%E5%A0%B1/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/points-media/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/points-media/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%A3%B1%E8%A7%92/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/rthk/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%A3%B1%E8%A7%92/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%A3%B1%E8%A7%92/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/rthk/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/rthk/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%B3%95%E5%BA%AD%E7%B7%9A/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/singtao/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E6%B3%95%E5%BA%AD%E7%B7%9A/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E6%B3%95%E5%BA%AD%E7%B7%9A/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/singtao/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/singtao/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E7%8D%A8%E7%AB%8B%E5%AA%92%E9%AB%94/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/skypost/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E7%8D%A8%E7%AB%8B%E5%AA%92%E9%AB%94/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E7%8D%A8%E7%AB%8B%E5%AA%92%E9%AB%94/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/skypost/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/skypost/"/>
     </url>
     <url>
-        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E9%9B%86%E8%AA%8C%E7%A4%BE/Readme/</loc>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/takungpao/</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/%E9%9B%86%E8%AA%8C%E7%A4%BE/Readme/"/>
-        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/%E9%9B%86%E8%AA%8C%E7%A4%BE/Readme/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/takungpao/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/takungpao/"/>
+    </url>
+    <url>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/takungpao/archive/%E3%80%90A7-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%90%AD%E6%A3%9A%E7%B6%AD%E4%BF%AE%E8%AA%BF%E6%9F%A5%E2%9D%B6-%E6%8F%AD%E9%96%8B%E7%B6%AD%E4%BF%AE%E6%A3%9A%E6%9E%B6%E8%83%8C%E5%BE%8C%E9%87%8D%E9%87%8D%E9%BB%91%E5%B9%95%E3%80%91/article/</loc>
+        <lastmod>2025-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/takungpao/archive/%E3%80%90A7-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%90%AD%E6%A3%9A%E7%B6%AD%E4%BF%AE%E8%AA%BF%E6%9F%A5%E2%9D%B6-%E6%8F%AD%E9%96%8B%E7%B6%AD%E4%BF%AE%E6%A3%9A%E6%9E%B6%E8%83%8C%E5%BE%8C%E9%87%8D%E9%87%8D%E9%BB%91%E5%B9%95%E3%80%91/article/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/takungpao/archive/%E3%80%90A7-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%90%AD%E6%A3%9A%E7%B6%AD%E4%BF%AE%E8%AA%BF%E6%9F%A5%E2%9D%B6-%E6%8F%AD%E9%96%8B%E7%B6%AD%E4%BF%AE%E6%A3%9A%E6%9E%B6%E8%83%8C%E5%BE%8C%E9%87%8D%E9%87%8D%E9%BB%91%E5%B9%95%E3%80%91/article/"/>
+    </url>
+    <url>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/the-collective/</loc>
+        <lastmod>2025-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/the-collective/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/the-collective/"/>
+    </url>
+    <url>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/the-witness/</loc>
+        <lastmod>2025-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/the-witness/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/the-witness/"/>
     </url>
     <url>
         <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/photos/</loc>
