@@ -38,6 +38,16 @@ keywords: 政府文件, 官方記錄, 會議記錄, 防火通告, 行政文件, 
   - [消防安全守則 (Fire Safety Code)](Fire%20Safety%20Code.png)
   - [消防安全改善服務 – 有意承辦法例所規定消防安全改善工程的註冊消防裝置承辦商名單)](Fire_Safety_Improvement_Services_chi.pdf) - 收集自: <https://www.hkfsd.gov.hk/chi/source/safety/Fire_Safety_Improvement_Services_chi.pdf>
 
+- **市區重建局 (Urban Renewal Authority)**
+  - [「樓宇復修公司資料庫」已登記之公司 - 註冊一般建築承建商](https://brcrs.brplatform.org.hk/home/uploads/summary/rgbc_fulllist.pdf)
+  - [「樓宇復修公司資料庫」已登記之公司 - 認可人士 (提供認可人士服務之顧問公司)](https://brcrs.brplatform.org.hk/home/uploads/summary/ap_fulllist.pdf)
+  - [「樓宇復修公司資料庫」已登記之公司 - 註冊檢驗人員 (提供註冊檢驗人員服務之顧問公司)](https://brcrs.brplatform.org.hk/home/uploads/summary/ri_fulllist.pdf)
+  - [「樓宇復修公司資料庫」查閱公司資料 - 宏業建築工程有限公司](https://brcrs.brplatform.org.hk/tc/info/aid/176)
+  - [「樓宇復修公司資料庫」查閱公司資料 - 鴻毅建築師有限公司](https://brcrs.brplatform.org.hk/tc/info/aid/44)
+  - [樓宇復修平台 - 招標妥《自助工具》手冊（DIY Tool-kits）](https://brplatform.org.hk/f/upload/13750/DIY_Tool_Kit.pdf)
+  - [樓宇復修平台 - 「招標妥」樓宇復修促進服務申請須知](https://brplatform.org.hk/f/upload/13481/Application_notes_ST.pdf)
+  - [樓宇復修平台 - 第三輪樓宇更新大行動 2.0 (第一類別樓宇業主組織適用)申請須知](https://brplatform.org.hk/f/upload/13481/AN-OBB-CHI.pdf)
+
 - **社會福利署 (SWD)**
   - [南大埔綜合家庭服務中心服務範圍 (2024年10月)](TP(S)IFSC_Service%20Boundary%20(Oct%202024).pdf) - 收集自: <https://www.swd.gov.hk/storage/asset/section/643/tc/TP(S)IFSC_Service%20Boundary%20(Oct%202024).pdf>
 
