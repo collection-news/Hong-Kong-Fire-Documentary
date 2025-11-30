@@ -10,23 +10,26 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        branch: [main, gh-pages]
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: main
+          ref: ${{ matrix.branch }}
           fetch-depth: 0
 
       - name: Add upstream
         run: |
           git remote add upstream https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary.git
-          git fetch upstream
+          git fetch upstream ${{ matrix.branch }}
 
       - name: Merge upstream changes
         run: |
-          git merge upstream/main --no-edit || true
+          git merge upstream/${{ matrix.branch }} --no-edit || true
 
       - name: Push changes
         run: |
-          git push origin main
+          git push origin ${{ matrix.branch }}
