@@ -40,7 +40,7 @@ Each video has separate Chinese and English metadata files with the following se
 ### Collection Information
 
 - **Collection Time**: See initial commit time (see git commit) - automatically retrieved from git commit history
-- **Collection Method**: Please refer to [Collection Method options in main README](../../README.md#4-收集方法-collection-method)
+- **Collection Method**: Please refer to [Collection Method options in main README](../index.en.md#4-collection-method)
 - **Collector**: See initial committer (see git commit) - automatically retrieved from git commit history
 
 ### Video Description
@@ -78,7 +78,7 @@ To ensure videos can serve as valid evidence, **each video** should include the 
 
 **3. Collection Method**
 
-- Please refer to [Collection Method options in main README](../../README.md#4-收集方法-collection-method)
+- Please refer to [Collection Method options in main README](../index.en.md#4-collection-method)
 
 **4. Video Description**
 

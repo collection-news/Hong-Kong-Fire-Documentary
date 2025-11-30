@@ -4,10 +4,10 @@ This section compiles news reports, feature articles, and official releases from
 
 ## By Media Outlet (Local & Chinese)
 
-- [**Now News**](NOW%20新聞/README.md)
-- [**RTHK**](RTHK%20香港電台/README.md)
+- [**Now News**](now-news/README.md)
+- [**RTHK**](rthk/README.md)
 - [**i-Cable News**](i-cable/README.md)
-- [**TVB News**](無綫新聞/README.md) *(Pending)*
+- [**TVB News**](tvb/README.md) *(Pending)*
 - [**Commercial Radio**](commercial-radio/README.md)
 - [**HK01**](hk01/README.md)
 - [**Ming Pao**](mingpao/README.md)
@@ -18,11 +18,11 @@ This section compiles news reports, feature articles, and official releases from
 - [**The Collective**](the-collective/README.md)
 - [**Points Media**](points-media/README.md)
 - [**The Witness**](the-witness/README.md)
-- [**BBC Chinese**](BBC%20中文網/README.md)
+- [**BBC Chinese**](bbc-chinese/README.md)
 - [**Takungpao**](takungpao/README.md)
 - [**Dotdotnews**](dotdotnews/README.md)
 - [**Sky Post**](skypost/README.md)
-- [**The Standard**](The%20Standard/README.md)
+- [**The Standard**](the-standard/README.md)
 - [**Bastille Post**](bastille-post/README.md)
 - [**People's Daily Greater Bay Area**](peoples-daily-gba/README.md)
 
@@ -35,8 +35,8 @@ This section compiles news reports, feature articles, and official releases from
 - [**AP**](ap/README.md)
 - [**ABC**](abc/README.md)
 - [**Sky**](sky/README.md)
-- [**The Guardian**](The%20Guardian/README.md)
-- [**The Sun**](The%20Sun/README.md)
+- [**The Guardian**](the-guardian/README.md)
+- [**The Sun**](the-sun/README.md)
 - [**Other International Coverage (German, Japanese, etc.)**](international/README.md)
 
 ## Official Information

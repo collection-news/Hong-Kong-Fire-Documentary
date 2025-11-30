@@ -162,5 +162,5 @@ This folder contains the original PDF files of Wang Fuk Court Owners' Corporatio
 
 **總計 / Total:** 34 份會議記錄 / 34 meeting minutes
 
-如需文字可搜尋版本，請參閱 [Markdown 格式](../markdown/)。
-For searchable text versions, please refer to the [Markdown format](../markdown/).
+如需文字可搜尋版本，請參閱 [Markdown 格式](../markdown/README.md)。
+For searchable text versions, please refer to the [Markdown format](../markdown/README.md).

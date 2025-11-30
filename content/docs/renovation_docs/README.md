@@ -26,7 +26,7 @@ This directory contains documents related to the Wang Fuk Court renovation proje
 - [工程顧問初步核實結果.pdf](工程顧問初步核實結果.pdf)
 - [樓宇復修工程資料簡報小冊子.pdf](樓宇復修工程資料簡報小冊子.pdf) - 收集自: <http://www.wangfuk.org/html/home/doc/2024-10-02%20L46-%E5%A4%96%E7%89%86%E6%96%BD%E5%B7%A5(%E4%BF%9D%E8%AD%B7%E6%8E%AA%E6%96%BD%E5%8F%8A%E6%89%93%E9%91%BF)%E6%B5%81%E7%A8%8B(A-H%E5%A1%B5).pdf>
 - [工程解說會簡報(宏業及鴻毅).pdf](工程解說會簡報(宏業及鴻毅).pdf) - 收集自: <http://www.wangfuk.org/html/home/doc/%E5%B7%A5%E7%A8%8B%E8%A7%A3%E8%AA%AA%E6%9C%83%E7%B0%A1%E5%A0%B1(%E5%AE%8F%E6%A5%AD%E5%8F%8A%E9%B4%BB%E6%AF%85).pdf>
-- [強制驗樓修葺工程標書簡要](8.強制驗樓修葺工程標書簡要.pdf)  - 收集自: <http://www.wangfuk.org/html/home/doc/%E6%A8%93%E5%AE%87%E5%BE%A9%E4%BF%AE%E5%B7%A5%E7%A8%8B%E8%B3%87%E6%96%99%E7%B0%A1%E5%A0%B1%E5%B0%8F%E5%86%8A%E5%AD%90.pdf>
+- [強制驗樓修葺工程標書簡要](http://www.wangfuk.org/html/home/doc/%E6%A8%93%E5%AE%87%E5%BE%A9%E4%BF%AE%E5%B7%A5%E7%A8%8B%E8%B3%87%E6%96%99%E7%B0%A1%E5%A0%B1%E5%B0%8F%E5%86%8A%E5%AD%90.pdf)  - 收集自: <http://www.wangfuk.org/html/home/doc/%E6%A8%93%E5%AE%87%E5%BE%A9%E4%BF%AE%E5%B7%A5%E7%A8%8B%E8%B3%87%E6%96%99%E7%B0%A1%E5%A0%B1%E5%B0%8F%E5%86%8A%E5%AD%90.pdf>
 - [大維修相關資訊 - 各座工程進度表(A-H)](http://www.wangfuk.org/html/home/doc/%E5%90%84%E5%BA%A7%E5%B7%A5%E7%A8%8B%E9%80%B2%E5%BA%A6%E8%A1%A8_20250830.pdf)
 - [工程承建商通告 - 2025-09-29 N229 - 修葺棚架 (A-H座)](http://www.wangfuk.org/html/home/doc/2025-09-29%20N229%20-%20%E4%BF%AE%E8%91%BA%E6%A3%9A%E6%9E%B6%20(A-H%E5%BA%A7).pdf)
 - [工程承建商通告 - 024-09-13 L05R1-工程人員架構表(更新) (A-H座)](http://www.wangfuk.org/html/home/doc/2024-09-13%20L05R1-%E5%B7%A5%E7%A8%8B%E4%BA%BA%E5%93%A1%E6%9E%B6%E6%A7%8B%E8%A1%A8(%E6%9B%B4%E6%96%B0)%20(A-H%E5%BA%A7).pdf)

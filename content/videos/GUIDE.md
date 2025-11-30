@@ -40,7 +40,7 @@
 ### 收集資料 (Collection Information)
 
 - **收集時間 (Collection Time)**: 見首次提交時間 (見 git commit) - 自動從 git commit 記錄取得
-- **收集方法 (Collection Method)**: 請參閱[主 README 的收集方法選項](../../README.md#4-收集方法-collection-method)
+- **收集方法 (Collection Method)**: 請參閱[主 README 的收集方法選項](../index.md#4-收集方法-collection-method)
 - **收集者 (Collector)**: 見首次提交者 (見 git commit) - 自動從 git commit 記錄取得
 
 ### 影片描述 (Video Description)
@@ -78,7 +78,7 @@
 
 **3. 收集方法 (Collection Method)**
 
-- 請參閱[主 README 的收集方法選項](../../README.md#4-收集方法-collection-method)
+- 請參閱[主 README 的收集方法選項](../index.md#4-收集方法-collection-method)
 
 **4. 影片描述 (Video Description)**
 

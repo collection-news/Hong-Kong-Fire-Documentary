@@ -4,10 +4,10 @@
 
 ## 按媒體分類 (By Media Outlet)
 
-- [**Now 新聞**](NOW%20新聞/README.md)
-- [**香港電台 (RTHK)**](RTHK%20香港電台/README.md)
+- [**Now 新聞**](now-news/README.md)
+- [**香港電台 (RTHK)**](rthk/README.md)
 - [**有線新聞 (i-Cable)**](i-cable/README.md)
-- [**無綫新聞 (i-Cable)**](無綫新聞/README.md) *(待補)*
+- [**無綫新聞 (TVB)**](tvb/README.md) *(待補)*
 - [**商業電台 (Commercial Radio)**](commercial-radio/README.md)
 - [**香港 01 (HK01)**](hk01/README.md)
 - [**明報 (Ming Pao)**](mingpao/README.md)
@@ -18,11 +18,11 @@
 - [**集誌社 (The Collective)**](the-collective/README.md)
 - [**棱角 (Points Media)**](points-media/README.md)
 - [**法庭線 (The Witness)**](the-witness/README.md)
-- [**BBC 中文網**](BBC%20中文網/README.md)
+- [**BBC 中文網**](bbc-chinese/README.md)
 - [**大公文匯**](takungpao/README.md)
 - [**點新聞(Dotdotnews)**](dotdotnews/README.md)
 - [**晴報 (Sky Post)**](skypost/README.md)
-- [**英文虎報 (The Standard)**](The%20Standard/README.md)
+- [**英文虎報 (The Standard)**](the-standard/README.md)
 - [**巴士的報 (Bastille Post)**](bastille-post/README.md)
 - [**人民日報大湾区(People's Daily GBA)**](peoples-daily-gba/README.md)
 
@@ -35,8 +35,8 @@
 - [**AP**](ap/README.md)
 - [**ABC (Australian Broadcasting Corporation)**](abc/README.md)
 - [**Sky**](sky/README.md)
-- [**The Guardian**](The%20Guardian/README.md)
-- [**The Sun**](The%20Sun/README.md)
+- [**The Guardian**](the-guardian/README.md)
+- [**The Sun**](the-sun/README.md)
 - [**Other International Coverage (German, Japanese, etc.)**](international/README.md)
 
 ## 官方資料 (Official Information)

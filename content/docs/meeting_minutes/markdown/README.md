@@ -60,5 +60,5 @@ This folder contains the Markdown text versions of Wang Fuk Court Owners' Corpor
 
 **總計 / Total:** 34 份會議記錄 / 34 meeting minutes
 
-如需查閱原始PDF檔案，請參閱 [PDF 格式](../pdf/)。
-For original PDF files, please refer to the [PDF format](../pdf/).
+如需查閱原始PDF檔案，請參閱 [PDF 格式](../pdf/README.md)。
+For original PDF files, please refer to the [PDF format](../pdf/README.md).
