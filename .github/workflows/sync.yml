@@ -28,7 +28,9 @@ jobs:
 
       - name: Merge upstream changes
         run: |
-          git merge upstream/${{ matrix.branch }} --no-edit || true
+          git config user.name "appledailyarchive"
+          git config user.email "appledailyarchive@protonmail.com"
+          git merge -X theirs upstream/${{ matrix.branch }} --no-edit
 
       - name: Push changes
         run: |
