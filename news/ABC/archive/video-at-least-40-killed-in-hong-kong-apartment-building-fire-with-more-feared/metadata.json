@@ -3,6 +3,10 @@
   "title": "VIDEO: At least 40 killed in Hong Kong apartment building fire with more feared trapped.",
   "source": "ABC",
   "source_file": "content/news/ABC/Readme.md",
+<<<<<<< HEAD
+  "scraped_at": "2025-11-29T20:41:19.186626",
+=======
   "scraped_at": "2025-11-30T15:55:18.217148",
+>>>>>>> upstream/main
   "archive_path": "content/news/ABC/archive/video-at-least-40-killed-in-hong-kong-apartment-building-fire-with-more-feared"
 }
