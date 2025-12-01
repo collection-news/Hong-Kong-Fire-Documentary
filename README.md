@@ -1,7 +1,7 @@
 [English Version](#english-version)
 
 > **Mirror Site / 鏡像網站**: https://wfc-fire.collection.news/
-> 
+>
 > This mirror is synchronized every 12 hours to ensure data accessibility in case of takedown or censorship.
 > 本鏡像網站每 12 小時同步一次，以確保在被移除或審查時仍可存取資料。
 
@@ -216,21 +216,25 @@ pip install -r requirements.txt
   - 用於定時抓取各大媒體的最新報道
   - 包含 `scraper.py` (主程式) 及 `scraped_urls.json` (已抓取紀錄)
 - **`scripts/archive_news.py`**：新聞連結自動備份工具 (Markdown)
-  - **功能**：自動掃描 Markdown 檔案中的連結，將其備份至 Internet Archive (Wayback Machine)，並在原連結旁加上備份連結。
+
+  - 自動掃描 Markdown 檔案中的連結，將其備份至 Internet Archive (Wayback Machine)，並在原連結旁加上備份連結。
   - **使用方法**：
+
     ```bash
     # 安裝依賴
     pip install -r scripts/requirements.txt
-    
+
     # 掃描並備份 content/news 目錄下的所有 Markdown 檔案
     python3 scripts/archive_news.py content/news
-    
+
     # 掃描並備份單個檔案
     python3 scripts/archive_news.py content/news/rthk/README.md
     ```
+
   - **注意**：為避免觸發 API 速率限制，腳本在每次備份後會自動暫停 5 秒。大量備份時請預留足夠時間。
+
 - **`scripts/archive_database.py`**：新聞資料庫自動備份工具 (JSON)
-  - **功能**：自動掃描 `scraped_urls.json` 資料庫中的連結，將其備份至 Internet Archive，並將備份連結 (`archive_url`) 寫回資料庫中。
+  - 自動掃描 `scraped_urls.json` 資料庫中的連結，將其備份至 Internet Archive，並將備份連結 (`archive_url`) 寫回資料庫中。
   - **使用方法**：
     ```bash
     python3 scripts/archive_database.py scripts/scrapers/content_scraper/scraped_urls.json
@@ -444,9 +448,36 @@ This repository includes automation tools and CI/CD workflows for developers:
 - **`.github/workflows/`**: GitHub Actions workflows
   - `publish.yml`: Automatically builds and deploys the site to GitHub Pages
   - `lint.yml`: Automatically checks Markdown formatting and code style (Linting)
-  - `auto-review.yml`：Automatically request project reviwers to review Pull Request
-- **`scripts/scraper/`**: Automated News Scraper
+  - `auto-review.yml`: Automatically request project reviwers to review Pull Request
+- **`scripts/scraper/`**: Scheduled News Scraper
   - Scheduled to fetch the latest reports from major media outlets
   - Includes `scraper.py` (main script) and `scraped_urls.json` (history record)
+- **`scripts/archive_news.py`**: News Links Backup Script (for Markdown)
+
+  - Automatically scan News links across Markdown and back up to Internet Archive (Wayback Machine), with those back up links inserted next to the News links
+  - **Usage**:
+
+    ```bash
+    # Dependency Installation
+    pip install -r scripts/requirements.txt
+
+    # Scan and back up links from all Markdown under the path `content/news`
+    python3 scripts/archive_news.py content/news
+
+    # Scan and back up links from a single Markdown
+    python3 scripts/archive_news.py content/news/rthk/README.md
+    ```
+
+  - **NOTE**: To prevent rate limiting from Internet Archive API, there will be an auto pause of 5 seconds for every back up.
+
+- **`scripts/archive_database.py`**: News Database Backup Script (for JSON)
+
+  - Automatically scan links from the Database(`scraped_urls.json`) and back up to Internet Archive, with the back up link(`archive_url`) inserted back to the Database.
+
+  - **Usage**:
+    ```bash
+    python3 scripts/archive_database.py scripts/scrapers/content_scraper/scraped_urls.json
+    ```
+
 - **`mkdocs.yml`**: Site Configuration
   - Defines site structure, theme, and internationalization (i18n) settings
