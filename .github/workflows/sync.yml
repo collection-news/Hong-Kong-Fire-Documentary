@@ -24,7 +24,7 @@ jobs:
 
       - name: Add upstream
         run: |
-          git remote add upstream https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary.git
+          git remote add upstream https://github.com/adminlby/Hong-Kong-Fire-Documentary.git
           git fetch upstream ${{ matrix.branch }}
 
       - name: Merge upstream changes
